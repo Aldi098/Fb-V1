@@ -15,6 +15,7 @@ python2 Fb-brute_enc.py
 ## Fungsi
 ```
 Hack akun fb
+Hack menggunakan id/username
 Hack menggunakan wordlist
 Hack FB no login
 ```
